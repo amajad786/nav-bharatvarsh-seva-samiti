@@ -13,7 +13,7 @@ const slides = [
       { value: "0", label: "Contributors" },
       { value: "0", label: "Fundraisers" },
     ],
-    description: "Shiv Sumitra Group Foundation (SSGF) runs free remedial classes, vocational training, and non-formal education programs for underprivileged children, school dropouts, and low-income families across multiple states, ensuring inclusive learning opportunities and skill development to bridge educational gaps and empower future generations with knowledge and employability.",
+    description: "Nav Bharatvarsh Seva Sansthan runs free remedial classes, vocational training, and non-formal education programs for underprivileged children, school dropouts, and low-income families across multiple states, ensuring inclusive learning opportunities and skill development to bridge educational gaps and empower future generations with knowledge and employability.",
     button: "Donate Now",
     image:
       "src/assets/images/event1.jpg",
@@ -25,7 +25,7 @@ const slides = [
       { value: "", label: "" },
     ],
     description:
-      "The NGO organizes medical camps, HIV/AIDS prevention workshops, Pulse Polio drives, and sanitation initiatives to improve community health, reduce preventable diseases, and promote hygiene awareness in marginalized areas through partnerships with local healthcare providers.",
+      "Nav Bharatvarsh Seva Sansthan organizes medical camps, HIV/AIDS prevention workshops, Pulse Polio drives, and sanitation initiatives to improve community health, reduce preventable diseases, and promote hygiene awareness in marginalized areas through partnerships with local healthcare providers.",
     button: "Contribute Now",
     subtext: "",
     image:
@@ -38,7 +38,7 @@ const slides = [
       { value: "", label: "" },
     ],
     description:
-      "Led by Director Mrs. Nidhi Srivastava, SSGF conducts conflict resolution workshops, tolerance programs, and interfaith dialogues to promote social harmony, reduce violence, and foster empathy among youth in conflict-prone areas.",
+      "Led by Director Mrs. Nidhi Srivastava, Nav Bharatvarsh Seva Sansthan conducts conflict resolution workshops, tolerance programs, and interfaith dialogues to promote social harmony, reduce violence, and foster empathy among youth in conflict-prone areas.",
     button: "Donate Now",
     subtext: "",
     image:
@@ -65,7 +65,7 @@ export default function CarouselSlider() {
   }, []);
 
   return (
-    <div className="relative w-full bg-gray-50 overflow-hidden">
+    <div className="relative w-full  overflow-hidden">
       {slides.map((slide, index) => (
         <div
           key={slide.id}

@@ -53,7 +53,7 @@ const Header = () => {
         <div className="max-w-7xl mx-auto px-4 flex justify-between items-center py-1">
           {/* Logo */}
           <div className="flex items-center gap-2">
-            <img src="src\assets\images\NBSS-logo.jpg" alt="" className="w-18 md:w-20 object-cover" />
+            <img src="src\assets\images\NBSS-logo.jpg" alt="" className="w-10 md:w-14 object-cover" />
           </div>
 
           {/* Desktop Menu */}

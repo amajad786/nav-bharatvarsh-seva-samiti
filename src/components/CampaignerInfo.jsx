@@ -25,7 +25,7 @@ export default function CampaignerInfo() {
           SSG
         </div>
         <div>
-          <p className="text-cyan-600 font-semibold">Shiv Sumitra Group Foundations</p>
+          <p className="text-cyan-600 font-semibold">Nav Bharatvarsh Seva Sansthan</p>
           <p className="text-gray-500 text-sm">Delhi</p>
         </div>
       </div>

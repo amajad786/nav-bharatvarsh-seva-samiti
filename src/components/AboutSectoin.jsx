@@ -11,12 +11,12 @@ const AboutSection = () => {
             Consulting agency with 10 years of experience
           </h4>
           <p className="text-gray-600 mb-6">
-           Shiv Sumitra Group Foundation is a registered public charitable trust (NGO) established in 2014 (Reg. No. 780/2014-15). Operating across Delhi, Uttar Pradesh, Haryana, Rajasthan, Jharkhand, and Bihar, the organization is dedicated to social welfare, education, healthcare, and rural development. Through sustainable initiatives, it aims to uplift marginalized communities, promote skill development, and improve livelihoods, fostering empowerment and positive change in society.
+           Nav Bharatvarsh Seva Sansthan is a registered public charitable trust (NGO) established in 2014 (Reg. No. 780/2014-15). Operating across Delhi, Uttar Pradesh, Haryana, Rajasthan, Jharkhand, and Bihar, the organization is dedicated to social welfare, education, healthcare, and rural development. Through sustainable initiatives, it aims to uplift marginalized communities, promote skill development, and improve livelihoods, fostering empowerment and positive change in society.
 
           </p>
 
           <blockquote className="border-l-4 border-cyan-500 pl-4 text-gray-800 italic mb-4">
-            " A beacon of change since 2014, Shiv Sumitra Group Foundation (NGO Reg. 780/2014-15) transforms lives across 6 states through education, health initiatives, and community empowerment, turning compassion into actionable change for India's underserved. "
+            " A beacon of change since 2014, Nav Bharatvarsh Seva Sansthan (NGO Reg. 780/2014-15) transforms lives across 6 states through education, health initiatives, and community empowerment, turning compassion into actionable change for India's underserved. "
           </blockquote>
 
           <div>

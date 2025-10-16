@@ -54,7 +54,7 @@ export default function FAQ() {
           </span>
         </h2>
         <p className="mt-4 text-gray-600">
-          Find answers to common questions about Shiv Sumitra Group Foundation and how it can transform your Business
+          Find answers to common questions about Nav Bharatvarsh Seva Sansthan and how it can transform your Business
         </p>
       </div>
 

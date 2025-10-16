@@ -105,7 +105,7 @@ export default function FundraiserCarousel() {
   };
   return (
     <div className="bg-white py-6">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-7xl mx-auto overflow-hidden">
         <h2 className="text-2xl font-bold text-center mb-2">
           Our Contribution
         </h2>

@@ -5,7 +5,7 @@ export default function AboutSection() {
         <div className="bg-white rounded-lg shadow p-5 mt-6">
             <h2 className="text-xl font-bold mb-3">Help Us to feed hungry</h2>
             <p className="text-gray-700 mb-2">
-                Shiv Sumitra Group Foundation (SSGF) runs free remedial classes, vocational training, and non-formal education programs for
+                Nav Bharatvarsh Seva Sansthan runs free remedial classes, vocational training, and non-formal education programs for
                 underprivileged children, school dropouts, and low-income families across multiple states, ensuring inclusive learning opportunities and skill development to bridge educational gaps and empower future generations with knowledge and employability..
             </p>
             <p className="text-gray-700">

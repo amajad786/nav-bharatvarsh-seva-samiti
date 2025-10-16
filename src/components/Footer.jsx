@@ -98,7 +98,7 @@ const Footer = () => {
 
       {/* Bottom Section */}
       <div className="bg-[#0d1117] text-center text-sm py-4 border-t border-gray-700">
-        © Copyright 2025, All Rights Reserved by Shiv Sumitra Group Foundation
+        © Copyright 2025, All Rights Reserved by Nav Bharatvarsh Seva Sansthan
       </div>
     </footer>
   );
