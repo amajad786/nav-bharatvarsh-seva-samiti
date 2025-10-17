@@ -7,19 +7,20 @@ const categories = [
   "Environment",
   "Human Right",
   "Water",
-  "Wild Life",
+  "Health",
 ];
 
 const mediaItems = [
-  { id: 1, category: "Education", type: "image", src: "src/assets/images/ngo1.jpg" },
-  { id: 2, category: "Education", type: "video", src: "src/assets/videos/ngo2.mp4" },
-  { id: 3, category: "Environment", type: "image", src: "src/assets/images/ngo1.jpg" },
-  { id: 4, category: "Human Right", type: "image", src: "src/assets/images/ngo1.jpg" },
-  { id: 5, category: "Human Right", type: "video", src: "src/assets/videos/ngo1.mp4" },
-  { id: 6, category: "Water", type: "image", src: "src/assets/images/ngo1.jpg" },
-  { id: 7, category: "Water", type: "video", src: "src/assets/videos/ngo3.mp4" },
-  { id: 8, category: "Wild Life", type: "image", src: "src/assets/images/ngo1.jpg" },
-  { id: 9, category: "Wild Life", type: "video", src: "src/assets/videos/ngo1.mp4" },
+  { id: 1, category: "Health", type: "image", src: "src/assets/images/health.jpg" },
+  { id: 2, category: "Health", type: "image", src: "src/assets/images/health2.jpg" },
+  { id: 3, category: "Health", type: "image", src: "src/assets/images/health3.jpg" },
+  { id: 4, category: "Education", type: "video", src: "src/assets/videos/ngo2.mp4" },
+  { id: 5, category: "Environment", type: "image", src: "src/assets/images/ngo1.jpg" },
+  { id: 6, category: "Human Right", type: "image", src: "src/assets/images/ngo1.jpg" },
+  { id: 7, category: "Human Right", type: "video", src: "src/assets/videos/ngo1.mp4" },
+  { id: 8, category: "Water", type: "image", src: "src/assets/images/ngo1.jpg" },
+  { id: 9, category: "Water", type: "video", src: "src/assets/videos/ngo3.mp4" },
+  { id: 10, category: "Education", type: "image", src: "src/assets/images/ngo1.jpg" },
 ];
 
 const ITEMS_PER_PAGE = 6;
