@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight, Image as ImageIcon, X } from "lucide-react";
 const categories = [
   "All",
   "Education",
-  "Environment",
+  "Seva",
   "Human Right",
   "Water",
   "Health",
@@ -14,13 +14,13 @@ const mediaItems = [
   { id: 1, category: "Health", type: "image", src: "src/assets/images/health.jpg" },
   { id: 2, category: "Health", type: "image", src: "src/assets/images/health2.jpg" },
   { id: 3, category: "Health", type: "image", src: "src/assets/images/health3.jpg" },
-  { id: 4, category: "Education", type: "video", src: "src/assets/videos/ngo2.mp4" },
-  { id: 5, category: "Environment", type: "image", src: "src/assets/images/ngo1.jpg" },
-  { id: 6, category: "Human Right", type: "image", src: "src/assets/images/ngo1.jpg" },
-  { id: 7, category: "Human Right", type: "video", src: "src/assets/videos/ngo1.mp4" },
-  { id: 8, category: "Water", type: "image", src: "src/assets/images/ngo1.jpg" },
-  { id: 9, category: "Water", type: "video", src: "src/assets/videos/ngo3.mp4" },
-  { id: 10, category: "Education", type: "image", src: "src/assets/images/ngo1.jpg" },
+  { id: 4, category: "Seva", type: "video", src: "src/assets/videos/ngo1.mp4" },
+  { id: 5, category: "Seva", type: "image", src: "src/assets/images/ngo1.jpg" },
+  { id: 6, category: "Seva", type: "image", src: "src/assets/images/ngo2.jpg" },
+  { id: 7, category: "Seva", type: "image", src: "src/assets/images/ngo3.jpg" },
+  { id: 8, category: "Seva", type: "image", src: "src/assets/images/ngo4.jpg" },
+  { id: 9, category: "Seva", type: "image", src: "src/assets/images/ngo5.jpg" },
+  { id: 10, category: "Seva", type: "image", src: "src/assets/images/ngo6.jpg" },
 ];
 
 const ITEMS_PER_PAGE = 6;
