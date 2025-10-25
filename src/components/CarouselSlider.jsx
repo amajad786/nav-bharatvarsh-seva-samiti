@@ -16,7 +16,7 @@ const slides = [
     description: "Nav Bharatvarsh Seva Sansthan runs free remedial classes, vocational training, and non-formal education programs for underprivileged children, school dropouts, and low-income families across multiple states, ensuring inclusive learning opportunities and skill development to bridge educational gaps and empower future generations with knowledge and employability.",
     button: "Donate Now",
     image:
-      "src/assets/images/event1.jpg",
+      "/assets/images/event1.jpg",
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ const slides = [
     button: "Contribute Now",
     subtext: "",
     image:
-      "src/assets/images/event4.jpg",
+      "/assets/images/event4.jpg",
   },
   {
     id: 3,
@@ -42,7 +42,7 @@ const slides = [
     button: "Donate Now",
     subtext: "",
     image:
-      "src/assets/images/event5.jpg",
+      "/assets/images/event5.jpg",
   },
 ];
 

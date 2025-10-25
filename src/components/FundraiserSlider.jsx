@@ -6,7 +6,7 @@ import { useNavigate } from "react-router-dom";
 const fundraisers = [
   {
     id: 1,
-    image: "src/assets/images/event1.jpg", // Replace with actual image
+    image: "/assets/images/event1.jpg", // Replace with actual image
     title: "Education Awareness",
     author: "Alok Ramayan Chaurasia",
     raised: 3180697,
@@ -16,7 +16,7 @@ const fundraisers = [
   },
   {
     id: 2,
-    image: "src/assets/images/event2.jpg",
+    image: "/assets/images/event2.jpg",
     title: "Food Distribution",
     author: "Anurag Srivastava",
     raised: 2757424,
@@ -26,7 +26,7 @@ const fundraisers = [
   },
   {
     id: 3,
-    image: "src/assets/images/event3.jpg",
+    image: "/assets/images/event3.jpg",
     title: "Health Camp",
     author: "Rhea Rai",
     raised: 2181116,
@@ -36,7 +36,7 @@ const fundraisers = [
   },
   {
     id: 4,
-    image: "src/assets/images/event1.jpg",
+    image: "/assets/images/event1.jpg",
     title: "Education Awareness",
     author: "John Doe",
     raised: 1500000,
@@ -46,7 +46,7 @@ const fundraisers = [
   },
   {
     id: 5,
-    image: "src/assets/images/event2.jpg",
+    image: "/assets/images/event2.jpg",
     title: "Food Distribution",
     author: "Rhea Rai",
     raised: 2181116,

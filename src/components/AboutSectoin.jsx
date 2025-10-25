@@ -34,7 +34,7 @@ const AboutSection = () => {
         {/* Right Image */}
         <div className="flex justify-center md:justify-end h-[500px]">
           <img
-            src="src\assets\images\event1.jpg"
+            src="\assets\images\event1.jpg"
             alt="About us"
             className="rounded-md w-full h-auto object-cover"
           />
